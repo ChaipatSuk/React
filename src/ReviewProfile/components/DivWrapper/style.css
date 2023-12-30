@@ -1,0 +1,88 @@
+.div-wrapper {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #00000033;
+    border-radius: 30px;
+    height: 306px;
+    overflow: hidden;
+    position: relative;
+    width: 1275px;
+  }
+  
+  .div-wrapper .text-wrapper {
+    color: #000000;
+    font-family: "Itim", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 24px;
+    left: 120px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 135px;
+    white-space: nowrap;
+  }
+  
+  .div-wrapper .div {
+    color: #b43473;
+    font-family: "Itim", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 24px;
+    left: 59px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 184px;
+    white-space: nowrap;
+  }
+  
+  .div-wrapper .text-wrapper-2 {
+    color: #000000;
+    font-family: "Itim", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 24px;
+    left: 59px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 135px;
+    white-space: nowrap;
+  }
+  
+  .div-wrapper .line {
+    height: 1px;
+    left: 53px;
+    object-fit: cover;
+    position: absolute;
+    top: 110px;
+    width: 1144px;
+  }
+  
+  .div-wrapper .text-wrapper-3 {
+    color: #000000;
+    font-family: "Itim", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    height: 22px;
+    left: 120px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 184px;
+  }
+  
+  .div-wrapper .username {
+    color: #000000;
+    font-family: "Itim", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    left: 120px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 59px;
+    white-space: nowrap;
+  }
+  

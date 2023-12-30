@@ -1,0 +1,12 @@
+.BakeryRecommend{
+    display: flex;
+    flex-direction: column; /* Display children components in a column */
+    gap: 10px;
+    margin-top: 0%;
+    width: 100vw;
+    height: 300vh;
+    background: #564E6C;
+}
+.BakeryRowOne{
+    margin-top: 5%;
+}

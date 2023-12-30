@@ -1,0 +1,45 @@
+.nav-review-profile {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    position: relative;
+    width: 105px;
+  }
+  
+  .nav-review-profile .text-wrapper-6 {
+    font-family: "Itim", Helvetica;
+    font-size: 26px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 30px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .nav-review-profile .vector-2 {
+    height: 2px;
+    margin-bottom: -1px;
+    position: relative;
+    width: 51px;
+  }
+  
+  .nav-review-profile.property-1-0-default {
+    gap: 10px;
+  }
+  
+  .nav-review-profile.property-1-0-variant-2 {
+    flex-wrap: wrap;
+    gap: 10px 5px;
+  }
+  
+  .nav-review-profile.property-1-0-default .text-wrapper-6 {
+    color: #faecd6;
+  }
+  
+  .nav-review-profile.property-1-0-variant-2 .text-wrapper-6 {
+    color: #f8e060;
+  }
+  

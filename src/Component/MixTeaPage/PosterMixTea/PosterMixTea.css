@@ -1,0 +1,7 @@
+.PosterMixTea{
+    display: flex;
+    justify-content: center;
+}
+.PosterMixTea img{
+    width: 100vw;
+}

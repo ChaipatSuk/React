@@ -1,0 +1,164 @@
+.ForgotPassword {
+    background-color: #4e6c50;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .ForgotPassword .overlap-wrapper {
+    background-color: #4e6c50;
+    height: 2560px;
+    width: 1440px;
+  }
+  
+  .ForgotPassword .overlap {
+    border-radius: 30px;
+    height: 800px;
+    left: 89px;
+    position: relative;
+    top: 40px;
+    width: 1262px;
+  }
+  
+  .ForgotPassword .white-bg-wrapper {
+    background-color: #452a15;
+    border-radius: 30px;
+    height: 800px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 1262px;
+  }
+  
+  .ForgotPassword .white-bg {
+    align-items: flex-start;
+    background-color: #ffffff;
+    border-radius: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px 5px;
+    height: 550px;
+    left: 248px;
+    overflow: hidden;
+    padding: 66px 40px 33px;
+    position: relative;
+    top: 100px;
+    width: 765px;
+  }
+  
+  .ForgotPassword .div {
+    color: #000000;
+    font-family: "Itim", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 30px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .ForgotPassword .input-field-instance {
+    position: relative !important;
+    width: 650px !important;
+  }
+  
+  .ForgotPassword .design-component-instance-node {
+    display: inline-flex !important;
+    padding: 0px 6px !important;
+    width: unset !important;
+  }
+  
+  .ForgotPassword .log-in-instance {
+    left: 800px !important;
+    position: absolute !important;
+    top: 30px !important;
+  }
+  
+  .ForgotPassword .button-create-account {
+    align-items: flex-end !important;
+    left: 250px !important;
+    position: absolute !important;
+    top: 570px !important;
+    width: 1px !important;
+  }
+  
+  .ForgotPassword .button-create-instance {
+    margin-left: -200.5px !important;
+    margin-right: -200.5px !important;
+  }
+  
+  .ForgotPassword .text-wrapper-2 {
+    color: #15186a;
+    font-family: "Itim", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 51px;
+    letter-spacing: 0;
+    line-height: 0px;
+    position: absolute;
+    top: 600px;
+    white-space: nowrap;
+    cursor: pointer;
+  }
+  
+  .ForgotPassword .nav-logo {
+    align-items: center;
+    display: flex;
+    gap: 10px;
+    height: 72px;
+    justify-content: center;
+    left: 6px;
+    overflow: hidden;
+    padding: 22px 0px 22px 59px;
+    position: absolute;
+    top: 0;
+    width: 261px;
+  }
+  
+  .ForgotPassword .shiawase {
+    color: #faecd6;
+    font-family: "Yuji Boku", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: -8px;
+    margin-left: -6.5px;
+    margin-top: -10px;
+    position: relative;
+    width: 215px;
+    cursor: pointer;
+  }
+  
+  .ForgotPassword .line-2 {
+    height: 13px;
+    left: 30px;
+    position: absolute;
+    top: 38px;
+    width: 24px;
+  }
+  
+  .ForgotPassword .ellipse {
+    background-color: #faecd6;
+    border-radius: 1.5px/4.5px;
+    height: 9px;
+    left: 45px;
+    position: absolute;
+    top: 29px;
+    width: 3px;
+  }
+  
+  .ForgotPassword .ellipse-2 {
+    background-color: #faecd6;
+    border-radius: 1.5px/4.5px;
+    height: 9px;
+    left: 36px;
+    position: absolute;
+    top: 29px;
+    width: 3px;
+  }
+  

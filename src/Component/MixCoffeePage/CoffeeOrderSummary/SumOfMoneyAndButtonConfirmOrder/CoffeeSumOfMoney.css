@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.CoffeeSumOfMoney{
+    display: flex;
+    justify-content: center;
+    margin-left: 40%;
+    margin-top: 2%;
+}
+.CoffeeTextSumOfMoney{
+    margin-left: -80%;
+}
+.CoffeeTextSumOfMoney li{
+    list-style-type: none;
+    font-family: 'Itim', cursive;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.MixCoffeePrice{
+    margin-left: 40%;
+}
+.MixCoffeePrice li{
+    list-style-type: none;
+    font-family: 'Itim', cursive;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    color: #0C760A;
+}

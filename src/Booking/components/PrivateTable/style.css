@@ -1,0 +1,46 @@
+.private-table {
+    border-radius: 10px;
+    height: 42px;
+    position: relative;
+    width: 42px;
+  }
+  
+  .private-table .p {
+    font-family: "Itim", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 11px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    text-align: center;
+    top: 5px;
+    white-space: nowrap;
+  }
+  
+  .private-table.state-2-click {
+    background-color: #189815;
+  }
+  
+  .private-table.state-2-default {
+    background-color: #ff7a00;
+  }
+  
+  .private-table.state-2-hover {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #ff7a00;
+  }
+  
+  .private-table.state-2-click .p {
+    color: #ffffff;
+  }
+  
+  .private-table.state-2-default .p {
+    color: #ffffff;
+  }
+  
+  .private-table.state-2-hover .p {
+    color: #ff7a00;
+  }
+  

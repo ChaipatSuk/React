@@ -1,0 +1,32 @@
+.menu {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 5px;
+    justify-content: center;
+    padding: 10px;
+    position: relative;
+    width: 105px;
+  }
+  
+  .menu .text-wrapper-4 {
+    color: #faecd6;
+    font-family: "Itim", Helvetica;
+    font-size: 26px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 30px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .menu .vector {
+    height: 1px;
+    margin-right: -6404.65px;
+    margin-top: -118px;
+    position: relative;
+    width: 62.29px;
+  }
+  

@@ -1,0 +1,30 @@
+.component-wrapper {
+    height: 68px;
+    position: relative;
+    width: 168px;
+  }
+  
+  .component-wrapper .component-4 {
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .component-wrapper .image {
+    height: 29px;
+    left: 139px;
+    object-fit: cover;
+    position: absolute;
+    top: 38px;
+    width: 29px;
+  }
+  
+  .component-wrapper .image-2 {
+    height: 30px;
+    left: 138px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  

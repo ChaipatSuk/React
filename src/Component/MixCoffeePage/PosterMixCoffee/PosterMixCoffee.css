@@ -1,0 +1,7 @@
+.PosterMixCoffee{
+    display: flex;
+    justify-content: center;
+}
+.PosterMixCoffee img{
+    width: 100vw;
+}

@@ -1,0 +1,46 @@
+.meeting-table {
+    border-radius: 10px;
+    height: 42px;
+    position: relative;
+    width: 42px;
+  }
+  
+  .meeting-table .m {
+    font-family: "Itim", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 9px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    text-align: center;
+    top: 5px;
+    white-space: nowrap;
+  }
+  
+  .meeting-table.state-4-click {
+    background-color: #189815;
+  }
+  
+  .meeting-table.state-4-default {
+    background-color: #262ba7;
+  }
+  
+  .meeting-table.state-4-hover {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #262ba7;
+  }
+  
+  .meeting-table.state-4-click .m {
+    color: #ffffff;
+  }
+  
+  .meeting-table.state-4-default .m {
+    color: #ffffff;
+  }
+  
+  .meeting-table.state-4-hover .m {
+    color: #262ba7;
+  }
+  

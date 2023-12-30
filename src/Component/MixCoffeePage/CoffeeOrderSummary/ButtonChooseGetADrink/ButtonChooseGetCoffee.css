@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.CoffeePickUpAtCafe{
+    display: flex; 
+    align-items: center;
+}
+.CoffeeCircleButtonPickUpAtCafe {
+    width: 1.53vw;
+    height: 3.06vh;
+    border: 2px solid #5C5B5A9E;
+    border-radius: 90px;
+    margin-right: 10px;
+}
+
+.CoffeeCircleButtonPickUpAtCafe:hover,
+.CoffeeCircleButtonTableService:hover {
+    border: 1px solid #0C760A;
+}
+
+.CoffeeTextPickUpAtCafe{
+    list-style-type: none;
+    margin: 7px;
+    padding: 0;
+}
+.CoffeeTextPickUpAtCafe li{
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.CoffeeTableService{
+    display: flex; 
+    align-items: center;
+}
+.CoffeeCircleButtonTableService{
+    width: 1.53vw;
+    height: 3.06vh;
+    border: 2px solid #5C5B5A9E;
+    border-radius: 90px;
+    margin-right: 10px;
+}
+.CoffeeTextTableService{
+    list-style-type: none;
+    margin: 7px;
+    padding: 0;
+}
+.CoffeeTextTableService{
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

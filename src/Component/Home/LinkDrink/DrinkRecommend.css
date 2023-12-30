@@ -1,0 +1,11 @@
+.DrinkRecommend{
+    display: flex;
+    flex-direction: column; /* Display children components in a column */
+    gap: 10px;
+    margin-top: 3%;
+    width: 100vw;
+    height: auto;
+    margin-left: 0%;
+    background: #4E6C50;
+}
+  

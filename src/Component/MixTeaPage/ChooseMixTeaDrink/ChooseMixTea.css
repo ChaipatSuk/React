@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+
+.NumberOneTea {
+    font-family: 'Itim', cursive;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.TypeTea {
+    display: flex;
+    width: 40vw;
+    height: 8vh;
+    padding: 14px 40px 14px 34px;
+    align-items: flex-start;
+    gap: 355px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.20);
+    background: white;
+    font-family: 'Itim', cursive;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.TypeTea option{
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.ListTeaChoose{
+    margin-left: 62%;
+}
+.NumberFourTopping {
+    font-family: 'Itim', cursive;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.TypeTopping {
+    display: flex;
+    width: 40vw;
+    height: 8vh;
+    padding: 14px 40px 14px 34px;
+    align-items: flex-start;
+    gap: 355px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.20);
+    background: white;
+    font-family: 'Itim', cursive;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.TypeTopping option{
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.NumberThreeSweet {
+    font-family: 'Itim', cursive;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.TypeSweet {
+    display: flex;
+    width: 40vw;
+    height: 8vh;
+    padding: 14px 40px 14px 34px;
+    align-items: flex-start;
+    gap: 355px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.20);
+    background: white;
+    font-family: 'Itim', cursive;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.TypeSweet option{
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.NumberTwoMilk {
+    font-family: 'Itim', cursive;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.TypeMilk {
+    display: flex;
+    width: 40vw;
+    height: 8vh;
+    padding: 14px 40px 14px 34px;
+    align-items: flex-start;
+    gap: 355px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.20);
+    background: white;
+    font-family: 'Itim', cursive;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.TypeMilk option{
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.SaveData{
+    width: 10vw;
+    height: 7vh;
+    margin-top: 20%;
+    margin-left: 60%;
+    padding: 9px, 26px, 9px, 26px;
+    border-radius: 30px;
+    border: 2px;
+    gap: 10px;
+    background: white;
+    border: 3px solid #80B7A0;
+    cursor: pointer;
+}
+.SaveData:hover{
+    background: linear-gradient(180deg, #80B7A0 -10.53%, #1EDA8B -10.51%, #031A03 143.42%);
+    color: white;
+}
+.s-data{
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    color: #0C760A;
+}

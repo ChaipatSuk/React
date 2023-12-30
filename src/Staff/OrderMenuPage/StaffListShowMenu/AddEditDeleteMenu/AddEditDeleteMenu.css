@@ -1,0 +1,254 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.AddEditDeleteMenu{
+    position: relative;
+    margin-left: -50%;
+    height: auto;
+}
+.AddEditDeleteMenu h2{
+    margin-top: 3%;
+    margin-left: 9%;
+    margin-bottom: 5%;
+    color: black;
+    font-family: 'Itim', cursive;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.FrameStaffAddMenu{
+    width: 50vw;
+    height: 24.5vh;
+    background: white;
+    margin-top: 2.5%;
+    margin-left: 8%;
+    margin-bottom: 3%;
+    border-radius: 20px;
+    box-shadow: 4px 4px 10px 0px rgba(0, 0, 0, 0.25);
+}
+.FrameStaffImageMenu{
+    width: 18vw;
+    height: 24.5vh;
+    margin-top: -2.8%;
+    border-radius: 20px 0px 0px 20px;
+    box-shadow: 4px 4px 10px 0px rgba(0, 0, 0, 0.25);
+    background: linear-gradient(180deg, #80B7A0 -10.53%, #2B2E64 143.42%);
+}
+.Inputimage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.inputfileimage{
+    height: 5vh;
+}
+.InputDataMenu{
+    margin-top: -22%;
+    margin-left: 40%;
+}
+.inputmenuname,.inputdescription{
+    border-radius: 8px;
+    border: 1px solid #CDCDCD;
+}
+.inputmenuname{
+    width: 16vw;
+    height: 7vh;
+    font-family: 'Itim', cursive;
+}
+.inputdescription{
+    margin-top: 3%;
+    width: 18vw;
+    height: 10vh;
+    font-family: 'Itim', cursive;
+}
+.buttonconfirmdata{
+    margin-top: -10%;
+}
+.confirmadddata{
+    margin-left: 85%;
+    width: 2.7vw;
+    height: 5.5vh;
+    border-radius: 90px;
+    background: #EDCFCF;
+    border: none;
+    cursor: pointer;
+}
+.t-buttonconfirmdata{
+    font-size: 25px;
+}
+.buttonconfirmdata :hover{
+    background: #E87070;
+    color: white;
+}
+.AddHotandCoolPrice{
+    display: flex;
+    justify-content: right;
+    margin-right: 3%;
+}
+.AddHotPrice,.AddCoolPrice{
+    width: 5.5vw;
+    height: 6vh;
+    margin-top: -19%;
+    border: 2px solid #80B7A0;
+    background: white;
+    padding: 4px 4px 4px 0px;
+    gap: 4px;
+    flex-shrink: 0;
+}
+.t-hotprice,.t-coolprice{
+    font-family: 'Itim', cursive;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+}
+.AddHotPrice{
+    border-radius: 20px 0px 0px 20px;
+}
+.AddCoolPrice{
+    border-radius: 0px 20px 20px 0px;
+}
+.t-hotprice{
+    color: #CE0A0A;
+}
+.t-coolprice{
+    color: #0008C3;
+}
+.inputprice{
+    width: 1.5vw;
+    height: 2vh;
+}
+.AddNameMenuandDiscription{
+    margin-top: -24%;
+    margin-left: 40%;
+}
+.TextNameMenu{
+    font-family: 'Itim', cursive;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.TextDescription{
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    color: #5C5B5A;
+}
+.MenuItemContainer{
+    width: 50vw;
+    height: 24.5vh;
+    background: white;
+    margin-top: 2.5%;
+    margin-left: 8%;
+    margin-bottom: 7%;
+    border-radius: 20px;
+    box-shadow: 4px 4px 10px 0px rgba(0, 0, 0, 0.25);
+}
+.DeleteMenu{
+    width: 2.3vw;
+    height: 4.5vh;
+    border-radius: 90px;
+    margin-top: -19.5%;
+    margin-right: -28%;
+    cursor: pointer;
+}
+.b-deletemenu{
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    background: #CE0A0A;
+    border: #CE0A0A;
+    box-shadow:1px 1px 3px #5C5B5A;
+    color: white;
+}
+
+/*ส่วนcssแสดงข้อมูล*/
+.FrameImageMenu{
+    margin-top: -3.6%;
+}
+.ShowImage{
+    display: flex;
+    justify-content: center;
+    margin-left: -5%;
+    width: 20vw;
+    height: 25vh;
+}
+.HotandCoolPrice{
+    display: flex;
+    justify-content: right;
+    margin-right: 3%;
+}
+.HotPrice,.CoolPrice{
+    position: relative;
+    width: 5.5vw;
+    height: 6vh;
+    margin-top: -15.5%;
+    border: 2px solid #80B7A0;
+    background: white;
+    padding: 4px 4px 4px 0px;
+    gap: 4px;
+    flex-shrink: 0;
+}
+.ButtonEditMenu{
+    position: relative;
+    margin-top: 0%;
+}
+.Editmenu{
+    text-align: center;
+    margin-left: 85%;
+    width: 6.5vw;
+    height: 5vh;
+    background: white;
+    border: 2.5px solid #587784;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.t-editmenu{
+    font-family: 'Itim', cursive;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    background: white;
+    color: #587784;
+}
+.t-savemenu,
+.t-cancelmenu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  margin-left: 85%;
+  width: 5vw;
+  height: 5vh;
+  font-family: 'Itim', cursive;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  background: transparent;
+  border: none;
+  border-radius: 20px;
+  color: white;
+  cursor: pointer;
+}
+
+/* Background colors for buttons */
+.t-savemenu {
+  background: #39936D;
+}
+
+.t-cancelmenu {
+  background: #B12A2A;
+}
+.TextNameMenu input{
+    margin-top: -10%;
+}
+.TextDescription input{
+    margin-top: -2.5%;
+}

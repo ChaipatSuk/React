@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.StaffButtonMenu{
+    position: sticky;
+    display: flex;
+    justify-content: left;
+    margin-left: 7%;
+    margin-top: 8%;
+}
+.Staffmilk-button,.Stafftea-button,.Staffcoffee-button,.Staffsoda-button,.Staffbakery-button{
+    width: 5vw;
+    height: 5.5vh;
+    background: #CFEDE1;
+    border: #CFEDE1;
+    border-radius: 10px;
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+    font-weight: 400;
+    color: black;
+    line-height: 30px;
+    margin: 0 15px;
+    cursor: pointer;
+}
+.Staffmilk-button:hover,
+.Stafftea-button:hover,
+.Staffcoffee-button:hover,
+.Staffsoda-button:hover,
+.Staffbakery-button:hover {
+    background: linear-gradient(180deg, #80B7A0 -10.53%, #2B2E64 143.42%);
+    color: white;
+}
+.ButtonEdit,.ButtonPlus{
+    background: #EDCFCF;
+    border: #EDCFCF;
+    font-family: 'Itim', cursive;
+    font-weight: 400;
+    color: black;
+    line-height: 30px;
+    margin: 0 15px;
+}
+.ButtonEdit{
+    width: 4vw;
+    height: 5.5vh;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.ButtonPlus{
+    width: 2.5vw;
+    height: 5vh;
+    border-radius: 90px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.AddEditDeleteMenu {
+    margin-top: 6%;
+    margin-left: -50%;
+    height: 100vh;
+  }
+  

@@ -1,0 +1,168 @@
+.ReviewLogin {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .ReviewLogin .div-2 {
+    background-color: #ffffff;
+    height: 2100px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .ReviewLogin .footer {
+    height: 355px;
+    left: 0;
+    position: absolute;
+    top: 1745px;
+    width: 1440px;
+  }
+  
+  .ReviewLogin .text-wrapper-9 {
+    color: #000000;
+    font-family: "Itim", Helvetica;
+    font-size: 38px;
+    font-weight: 400;
+    left: 83px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 179px;
+  }
+  
+  .ReviewLogin .pink-star {
+    height: 31px;
+    left: 1202px;
+    object-fit: cover;
+    position: absolute;
+    top: 193px;
+    width: 31px;
+  }
+  
+  .ReviewLogin .pink-star-2 {
+    height: 31px;
+    left: 1233px;
+    object-fit: cover;
+    position: absolute;
+    top: 193px;
+    width: 31px;
+  }
+  
+  .ReviewLogin .pink-star-3 {
+    height: 31px;
+    left: 1264px;
+    object-fit: cover;
+    position: absolute;
+    top: 193px;
+    width: 31px;
+  }
+  
+  .ReviewLogin .pink-star-4 {
+    height: 31px;
+    left: 1295px;
+    object-fit: cover;
+    position: absolute;
+    top: 193px;
+    width: 31px;
+  }
+  
+  .ReviewLogin .pink-star-5 {
+    height: 31px;
+    left: 1326px;
+    object-fit: cover;
+    position: absolute;
+    top: 193px;
+    width: 31px;
+  }
+  
+  .ReviewLogin .view {
+    left: 83px !important;
+    position: absolute !important;
+    top: 301px !important;
+  }
+  
+  .ReviewLogin .component-1744 {
+    background-image: url(https://cdn.animaapp.com/projects/654afb985b4f8eee5d8e3290/releases/657aada56acc5443e2abc279/img/profile-2.svg) !important;
+    height: 51px !important;
+    left: 53px !important;
+    position: absolute !important;
+    top: 39px !important;
+    width: 56px !important;
+  }
+  
+  .ReviewLogin .line-3 {
+    height: 1px;
+    left: 83px;
+    object-fit: cover;
+    position: absolute;
+    top: 254px;
+    width: 1275px;
+  }
+  
+  .ReviewLogin .header-nav-login-instance {
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .ReviewLogin .design-component-instance-node {
+    margin-bottom: unset !important;
+    margin-right: -288.65px !important;
+    margin-top: -20029px !important;
+  }
+  
+  .ReviewLogin .component-1744-instance {
+    left: 82px !important;
+    position: absolute !important;
+    top: 639px !important;
+  }
+  
+  .ReviewLogin .view-2 {
+    background-image: url(https://cdn.animaapp.com/projects/654afb985b4f8eee5d8e3290/releases/657aada56acc5443e2abc279/img/profile-3.svg) !important;
+    height: 51px !important;
+    left: 53px !important;
+    position: absolute !important;
+    top: 39px !important;
+    width: 56px !important;
+  }
+  
+  .ReviewLogin .view-3 {
+    font-size: 22px !important;
+    height: 30px !important;
+    line-height: 30px !important;
+    top: 132px !important;
+  }
+  
+  .ReviewLogin .view-4 {
+    left: 82px !important;
+    position: absolute !important;
+    top: 977px !important;
+  }
+  
+  .ReviewLogin .view-5 {
+    background-image: url(https://cdn.animaapp.com/projects/654afb985b4f8eee5d8e3290/releases/657aada56acc5443e2abc279/img/profile-4.svg) !important;
+    height: 51px !important;
+    left: 53px !important;
+    position: absolute !important;
+    top: 39px !important;
+    width: 56px !important;
+  }
+  
+  .ReviewLogin .view-6 {
+    left: 82px !important;
+    position: absolute !important;
+    top: 1315px !important;
+  }
+  
+  .ReviewLogin .view-7 {
+    background-image: url(https://cdn.animaapp.com/projects/654afb985b4f8eee5d8e3290/releases/657aada56acc5443e2abc279/img/profile-5.svg) !important;
+    height: 51px !important;
+    left: 53px !important;
+    position: absolute !important;
+    top: 39px !important;
+    width: 56px !important;
+  }
+  

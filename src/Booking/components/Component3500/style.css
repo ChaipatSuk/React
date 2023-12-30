@@ -1,0 +1,33 @@
+.component-3500 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #0c7609;
+    border-radius: 18px;
+    height: 35px;
+    overflow: hidden;
+    position: relative;
+    width: 88px;
+  }
+  
+  .component-3500 .text-wrapper-4 {
+    color: #0c7609;
+    font-family: "Itim", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    text-align: center;
+    top: 1px;
+    white-space: nowrap;
+  }
+  
+  .component-3500:hover {
+    background-color: #0c7609;
+  }
+  
+  .component-3500:hover .text-wrapper-4 {
+    color: #ffffff;
+    top: 2px;
+  }

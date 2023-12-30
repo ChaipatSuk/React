@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.NumberCoffeeThreeSweet {
+    font-family: 'Itim', cursive;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.TypeCoffeeSweet {
+    display: flex;
+    width: 40vw;
+    height: 8vh;
+    padding: 14px 40px 14px 34px;
+    align-items: flex-start;
+    gap: 355px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.20);
+    background: white;
+    font-family: 'Itim', cursive;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.TypeCoffeeSweet option{
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}

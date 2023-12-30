@@ -1,0 +1,175 @@
+.ReviewProfile {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .ReviewProfile .div-2 {
+    background-color: #ffffff;
+    height: 2100px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .ReviewProfile .footer {
+    height: 355px;
+    left: 0;
+    position: absolute;
+    top: 1745px;
+    width: 1440px;
+  }
+  
+  .ReviewProfile .text-wrapper-8 {
+    color: #000000;
+    font-family: "Itim", Helvetica;
+    font-size: 38px;
+    font-weight: 400;
+    left: 83px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 179px;
+  }
+  
+  .ReviewProfile .pink-star {
+    height: 31px;
+    left: 1202px;
+    object-fit: cover;
+    position: absolute;
+    top: 193px;
+    width: 31px;
+  }
+  
+  .ReviewProfile .pink-star-2 {
+    height: 31px;
+    left: 1233px;
+    object-fit: cover;
+    position: absolute;
+    top: 193px;
+    width: 31px;
+  }
+  
+  .ReviewProfile .pink-star-3 {
+    height: 31px;
+    left: 1264px;
+    object-fit: cover;
+    position: absolute;
+    top: 193px;
+    width: 31px;
+  }
+  
+  .ReviewProfile .pink-star-4 {
+    height: 31px;
+    left: 1295px;
+    object-fit: cover;
+    position: absolute;
+    top: 193px;
+    width: 31px;
+  }
+  
+  .ReviewProfile .pink-star-5 {
+    height: 31px;
+    left: 1326px;
+    object-fit: cover;
+    position: absolute;
+    top: 193px;
+    width: 31px;
+  }
+  
+  .ReviewProfile .view {
+    left: 83px !important;
+    position: absolute !important;
+    top: 301px !important;
+  }
+  
+  .ReviewProfile .component-2110 {
+    background-image: url(https://cdn.animaapp.com/projects/654afb985b4f8eee5d8e3290/releases/657b147efc8baadabbeb9568/img/profile-2.svg) !important;
+    height: 51px !important;
+    left: 53px !important;
+    position: absolute !important;
+    top: 39px !important;
+    width: 56px !important;
+  }
+  
+  .ReviewProfile .line-2 {
+    height: 1px;
+    left: 83px;
+    object-fit: cover;
+    position: absolute;
+    top: 254px;
+    width: 1275px;
+  }
+  
+  .ReviewProfile .header-nav-profile-instance {
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .ReviewProfile .design-component-instance-node {
+    margin-left: -1353.65px !important;
+    margin-right: unset !important;
+    margin-top: -20029px !important;
+  }
+  
+  .ReviewProfile .header-nav-profile-2 {
+    background-image: url(https://cdn.animaapp.com/projects/654afb985b4f8eee5d8e3290/releases/657b147efc8baadabbeb9568/img/state-default-2.svg) !important;
+    left: 1310px !important;
+    position: absolute !important;
+    top: 20px !important;
+  }
+  
+  .ReviewProfile .component-2110-instance {
+    left: 82px !important;
+    position: absolute !important;
+    top: 639px !important;
+  }
+  
+  .ReviewProfile .view-2 {
+    background-image: url(https://cdn.animaapp.com/projects/654afb985b4f8eee5d8e3290/releases/657b147efc8baadabbeb9568/img/profile-3.svg) !important;
+    height: 51px !important;
+    left: 53px !important;
+    position: absolute !important;
+    top: 39px !important;
+    width: 56px !important;
+  }
+  
+  .ReviewProfile .view-3 {
+    font-size: 22px !important;
+    height: 30px !important;
+    line-height: 30px !important;
+    top: 132px !important;
+  }
+  
+  .ReviewProfile .view-4 {
+    left: 82px !important;
+    position: absolute !important;
+    top: 977px !important;
+  }
+  
+  .ReviewProfile .view-5 {
+    background-image: url(https://cdn.animaapp.com/projects/654afb985b4f8eee5d8e3290/releases/657b147efc8baadabbeb9568/img/profile-4.svg) !important;
+    height: 51px !important;
+    left: 53px !important;
+    position: absolute !important;
+    top: 39px !important;
+    width: 56px !important;
+  }
+  
+  .ReviewProfile .view-6 {
+    left: 82px !important;
+    position: absolute !important;
+    top: 1315px !important;
+  }
+  
+  .ReviewProfile .view-7 {
+    background-image: url(https://cdn.animaapp.com/projects/654afb985b4f8eee5d8e3290/releases/657b147efc8baadabbeb9568/img/profile-5.svg) !important;
+    height: 51px !important;
+    left: 53px !important;
+    position: absolute !important;
+    top: 39px !important;
+    width: 56px !important;
+  }
+  

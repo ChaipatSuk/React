@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.QRCodePage{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 9999;
+}
+.QRCodeimg{
+    width: 15vw;
+    height: 25vh;
+    position: absolute;
+    z-index: 1;
+    margin-top: 30%;
+    margin-left: -77%;
+}
+.QRCodePage button{
+    background-color: white;
+    color: #CE0A0A;
+    font-family: 'Itim', cursive;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    border: none;
+    padding: 8px 16px;
+    margin-top: 86%;
+    margin-left: -58%;
+    cursor: pointer;
+    position: absolute;
+    z-index: 1;
+}

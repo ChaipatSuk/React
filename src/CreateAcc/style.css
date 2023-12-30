@@ -1,0 +1,215 @@
+.CreateAccount {
+    background-color: #4e6c50;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .CreateAccount .frame-wrapper {
+    background-color: #4e6c50;
+    height: 2560px;
+    width: 1440px;
+  }
+  
+  .CreateAccount .overlap-wrapper {
+    background-color: #452a15;
+    border-radius: 30px;
+    height: 800px;
+    left: 89px;
+    overflow: hidden;
+    position: relative;
+    top: 40px;
+    width: 1262px;
+  }
+  
+  .CreateAccount .overlap {
+    height: 803px;
+    left: -4px;
+    position: relative;
+    top: -3px;
+    width: 1266px;
+  }
+  
+  .CreateAccount .overlap-2 {
+    height: 800px;
+    left: 23px;
+    position: absolute;
+    top: 3px;
+    width: 1243px;
+  }
+  
+  .CreateAccount .white-bg {
+    background-color: #ffffff;
+    border-radius: 30px;
+    height: 800px;
+    left: 238px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 1005px;
+  }
+  
+  .CreateAccount .text-wrapper-3 {
+    color: #000000;
+    font-family: "Itim", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 358px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 79px;
+    white-space: nowrap;
+  }
+  
+  .CreateAccount .login-or-instance {
+    left: 445px !important;
+    position: absolute !important;
+    top: 565px !important;
+  }
+  
+  .CreateAccount .already-have-an {
+    color: transparent;
+    font-family: "Itim", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 150px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 503px;
+    white-space: nowrap;
+  }
+  
+  .CreateAccount .span {
+    color: #5b5b5a;
+  }
+  
+  .CreateAccount .text-wrapper-4 {
+    color: #15186a;
+    cursor: pointer;
+  }
+  
+  .CreateAccount .log-in-instance {
+    left: 948px !important;
+    position: absolute !important;
+    top: 33px !important;
+  }
+  
+  .CreateAccount .input-field-instance {
+    left: 147px !important;
+    position: absolute !important;
+    top: 166px !important;
+  }
+  
+  .CreateAccount .design-component-instance-node {
+    left: 542px !important;
+    position: absolute !important;
+    top: 166px !important;
+  }
+  
+  .CreateAccount .input-field-2 {
+    display: inline-flex !important;
+    padding: 0px 6px !important;
+    width: unset !important;
+  }
+  
+  .CreateAccount .input-field-3 {
+    left: 147px !important;
+    position: absolute !important;
+    top: 253px !important;
+    width: 726px !important;
+  }
+  
+  .CreateAccount .input-field-4 {
+    left: 147px !important;
+    position: absolute !important;
+    top: 340px !important;
+    width: 726px !important;
+  }
+  
+  .CreateAccount .button-create-account {
+    left: 147px !important;
+    position: absolute !important;
+    top: 453px !important;
+  }
+  
+  .CreateAccount .sign-with-instance {
+    left: 265px !important;
+    position: absolute !important;
+    top: 626px !important;
+  }
+  
+  .CreateAccount .sign-with-2 {
+    left: 528px !important;
+    position: absolute !important;
+    top: 626px !important;
+  }
+  
+  .CreateAccount .login {
+    height: 393px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 362px;
+    width: 444px;
+  }
+  
+  .CreateAccount .nav-logo {
+    align-items: center;
+    display: flex;
+    gap: 10px;
+    height: 72px;
+    justify-content: center;
+    left: 0;
+    overflow: hidden;
+    padding: 22px 0px 22px 59px;
+    position: absolute;
+    top: 0;
+    width: 261px;
+  }
+  
+  .CreateAccount .shiawase {
+    color: #faecd6;
+    font-family: "Yuji Boku", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: -8px;
+    margin-left: -6.5px;
+    margin-top: -10px;
+    position: relative;
+    width: 215px;
+    cursor: pointer;
+  }
+  
+  .CreateAccount .line-3 {
+    height: 13px;
+    left: 30px;
+    position: absolute;
+    top: 38px;
+    width: 24px;
+  }
+  
+  .CreateAccount .ellipse {
+    background-color: #faecd6;
+    border-radius: 1.5px/4.5px;
+    height: 9px;
+    left: 45px;
+    position: absolute;
+    top: 29px;
+    width: 3px;
+  }
+  
+  .CreateAccount .ellipse-2 {
+    background-color: #faecd6;
+    border-radius: 1.5px/4.5px;
+    height: 9px;
+    left: 36px;
+    position: absolute;
+    top: 29px;
+    width: 3px;
+  }
+  

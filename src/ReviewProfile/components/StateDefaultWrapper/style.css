@@ -1,0 +1,20 @@
+
+.state-default-wrapper {
+    background-position: 50% 50%;
+    background-size: cover;
+    border: 2px solid;
+    border-radius: 5045px;
+    height: 58px;
+    width: 60px;
+  }
+  
+  .state-default-wrapper.state-default {
+    background-image: url(https://cdn.animaapp.com/projects/654afb985b4f8eee5d8e3290/releases/657b147efc8baadabbeb9568/img/state-default-1.svg);
+    border-color: #fde9ca;
+  }
+  
+  .state-default-wrapper.state-hover {
+    background-image: url(https://cdn.animaapp.com/projects/654afb985b4f8eee5d8e3290/releases/657b147efc8baadabbeb9568/img/state-hover.svg);
+    border-color: #ffd592;
+  }
+  

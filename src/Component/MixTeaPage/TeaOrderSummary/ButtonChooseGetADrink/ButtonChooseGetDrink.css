@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.PickUpAtCafe{
+    display: flex; 
+    align-items: center;
+}
+.CircleButtonPickUpAtCafe {
+    width: 1.53vw;
+    height: 3.06vh;
+    border: 2px solid #5C5B5A9E;
+    border-radius: 90px;
+    margin-right: 10px;
+}
+
+.CircleButtonPickUpAtCafe:hover,
+.CircleButtonTableService:hover {
+    border: 1px solid #0C760A;
+}
+
+.TextPickUpAtCafe{
+    list-style-type: none;
+    margin: 7px;
+    padding: 0;
+}
+.TextPickUpAtCafe li{
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.TableService{
+    display: flex; 
+    align-items: center;
+}
+.CircleButtonTableService{
+    width: 1.53vw;
+    height: 3.06vh;
+    border: 2px solid #5C5B5A9E;
+    border-radius: 90px;
+    margin-right: 10px;
+}
+.TextTableService{
+    list-style-type: none;
+    margin: 7px;
+    padding: 0;
+}
+.TextTableService{
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.PlaceholderPickUpAtCafe,
+.PlaceholderTableService {
+  outline: none; /* Remove the outline when focused */
+  padding: 0; /* Adjust padding as needed */
+  font-family: 'Itim', cursive;
+  font-size: 17px;
+  background: none; /* Remove background if necessary */
+  display: inline-block; /* Display as inline block */
+}
+/* ButtonChooseGetDrink.css */
+.CircleButtonPickUpAtCafe.green {
+    /* CSS styles for the green button in PickUpAtCafe section */
+    /* For example: */
+    background-color: green;
+    /* Add other styles as needed */
+  }
+  
+  .CircleButtonTableService.green {
+    /* CSS styles for the green button in TableService section */
+    /* For example: */
+    background-color: green;
+    /* Add other styles as needed */
+  }
+  

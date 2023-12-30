@@ -1,0 +1,47 @@
+.nav-book-profile {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    position: relative;
+    width: 105px;
+  }
+  
+  .nav-book-profile .text-wrapper-5 {
+    font-family: "Itim", Helvetica;
+    font-size: 26px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 30px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .nav-book-profile .img {
+    height: 2px;
+    margin-bottom: -1px;
+    margin-left: -1.5px;
+    margin-right: -1.5px;
+    position: relative;
+    width: 88px;
+  }
+  
+  .nav-book-profile.default {
+    gap: 10px;
+  }
+  
+  .nav-book-profile.variant-2 {
+    flex-wrap: wrap;
+    gap: 10px 5px;
+  }
+  
+  .nav-book-profile.default .text-wrapper-5 {
+    color: #faecd6;
+  }
+  
+  .nav-book-profile.variant-2 .text-wrapper-5 {
+    color: #f8e060;
+  }
+  

@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.TextHowToPay{
+    margin-top: 10%;
+}
+.TextPayMent{
+    display: flex;
+    justify-content: left;
+}
+.TextPayMent li{
+    list-style-type: none;
+    font-family: 'Itim', cursive;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.TextScanQRCode{
+    display: flex;
+    align-items: center;
+    margin-left: 15%;
+}
+.CircleButtonBlue{
+    width: 1vw;
+    height: 2vh;
+    border-radius: 30px;
+    flex-shrink: 0;
+    background: #0008C3;
+    border-color: #0008C3;
+}
+.TextScanQR{
+    margin-left: -5%;
+}
+.TextScanQR li{
+    list-style-type: none;
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px   
+}
+.StraightLineUnderTextQR{
+    width: 25vw;
+    height: 2px;
+    margin-left: 8%;
+    margin-top: 3%;
+    background: rgba(0, 0, 0, 0.20);
+}

@@ -1,0 +1,19 @@
+.MixTeaPage{
+    overflow: hidden;
+}
+.ArrowButton{
+    position: absolute;
+    z-index: 1;
+    margin-top: 1.5%;
+    margin-left: 3%;
+}
+.TeaSummary{
+    display: flex;
+    justify-content: right;
+    margin-right: 5%;
+    margin-top: -45%;
+}
+.ChooseMixTea{
+    margin-left: 10%;
+    margin-top: 5%;
+}

@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.Recommend {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: auto;
+    margin-top: -1%;
+    background: white;
+    display: block; 
+}
+.RecommendMenu ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.RecommendMenu li {
+    margin: 0 10px;
+    display: inline-block;
+    font-family: 'Itim', cursive;
+    font-size: 34px;
+    font-weight: 400;
+    margin-top: 4.5%;
+    color: black;
+}
+.DrinkandBakery {
+    cursor: pointer;
+}
+.DrinkandBakery ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+.DrinkandBakery button {
+    margin: 0 10px;
+    display: inline-block; 
+    font-family: 'Itim', cursive;
+    font-size: 24px;
+    font-weight: 400;
+    padding: 0 40px;
+    color: #5C5B5A;
+    border: white;
+    background: white;
+    text-decoration: none; /* Remove the default underline */
+    position: relative;
+    cursor: pointer; /* Add this line for positioning the underline */
+}
+.DrinkandBakery button::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: black;
+    height: 2px;
+    transform: scaleX(0);
+    transform-origin: center;  
+}
+.DrinkandBakery button:hover::after {
+    transform: scaleX(1);
+}
+.DrinkandBakery button:hover {
+     color: black;
+     font-size: 27px;
+}
+.DrinkRecommend{
+    width: 100%;
+    margin-left: 3.7%;
+}
+

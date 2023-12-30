@@ -1,0 +1,16 @@
+.Arrow-Carousel{
+    position: absolute;
+    display: flex;
+    justify-content: left;
+    margin-left: 3%;
+    margin-top: 2%;
+    z-index: 1;
+}
+.button-arrow{
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+.material-symbols-outlined{
+    font-size: 40px;
+}

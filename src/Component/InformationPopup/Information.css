@@ -1,0 +1,26 @@
+.Information {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 9999; /* Ensures the popup is above other elements */
+}
+  /* Additional styles for the image */
+.Information img {
+    max-width: 100%;
+    height: auto;
+}
+  /* Close button styles */
+.Information button {
+    background-color: white;
+    color: #4F0202;
+    border: none;
+    padding: 8px 16px;
+    margin-top: 7%;
+    margin-left: -15%;
+    cursor: pointer;
+    position: absolute;
+    z-index: 1;
+    font-size: 20px;
+}
+  

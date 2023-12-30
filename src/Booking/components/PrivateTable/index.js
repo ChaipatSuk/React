@@ -1,0 +1,1 @@
+export { PrivateTable } from "./PrivateTable";

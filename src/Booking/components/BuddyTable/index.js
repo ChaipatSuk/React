@@ -1,0 +1,1 @@
+export { BuddyTable } from "./BuddyTable";

@@ -1,0 +1,39 @@
+.StaffListShowMenu h2{
+    margin-top: 60%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    color: black;
+    font-family: 'Itim', cursive;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.FrameOrderMenuSummary{
+    margin-left: 120%;
+    margin-top: -60%;
+}
+.SelectedMenu {
+    margin-top: 0%;
+    margin-left: 10%;
+}
+.SelectedMenu p{
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.ButtonMenuGetDrink{
+    margin-top: 20%;
+}
+.FrameOrderMenuSummary{
+    height: 100vh;
+}
+.MenuHowToPay{
+    margin-top: 40%;
+}
+
+
+
+

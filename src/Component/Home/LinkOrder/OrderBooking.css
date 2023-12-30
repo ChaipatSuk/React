@@ -1,0 +1,7 @@
+.Order_Booking{
+    display: flex;
+    width: 100vw;
+    height: 35vh;
+    z-index: 1;
+    background: #FEF6D6;
+}

@@ -1,0 +1,9 @@
+.Footer{
+    background: #CDCDCD;
+}
+.picfooter{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 30vh;
+}

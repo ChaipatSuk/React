@@ -1,0 +1,199 @@
+.Login  {
+    background-color: #4e6c50;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .Login   .frame-wrapper {
+    background-color: #4e6c50;
+    height: 2560px;
+    width: 1440px;
+  }
+  
+  .Login   .overlap-wrapper {
+    background-color: #452a15;
+    border-radius: 30px;
+    height: 800px;
+    left: 89px;
+    overflow: hidden;
+    position: relative;
+    top: 40px;
+    width: 1262px;
+  }
+  
+  .Login   .overlap {
+    height: 803px;
+    left: -4px;
+    position: relative;
+    top: -3px;
+    width: 1266px;
+  }
+  
+  .Login   .overlap-2 {
+    height: 800px;
+    left: 23px;
+    position: absolute;
+    top: 3px;
+    width: 1243px;
+  }
+  
+  .Login   .white-bg {
+    background-color: #ffffff;
+    border-radius: 30px;
+    height: 800px;
+    left: 238px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 1005px;
+  }
+  
+  .Login   .text-wrapper-2 {
+    color: #000000;
+    font-family: "Itim", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 458px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 79px;
+    white-space: nowrap;
+  }
+  
+  .Login   .login-or-instance {
+    left: 448px !important;
+    position: absolute !important;
+    top: 491px !important;
+  }
+  
+  .Login   .log-in-instance {
+    left: 948px !important;
+    position: absolute !important;
+    top: 33px !important;
+  }
+  
+  .Login   .input-field-instance {
+    left: 150px !important;
+    position: absolute !important;
+    top: 193px !important;
+    width: 726px !important;
+  }
+  
+  .Login   .design-component-instance-node {
+    display: inline-flex !important;
+    padding: 0px 6px !important;
+    width: unset !important;
+  }
+  
+  .Login   .input-field-2 {
+    left: 150px !important;
+    position: absolute !important;
+    top: 282px !important;
+    width: 726px !important;
+  }
+  
+  .Login   .button-create-account {
+    left: 150px !important;
+    position: absolute !important;
+    top: 371px !important;
+  }
+  
+  .Login   .button-create-instance {
+    font-size: 20px !important;
+  }
+  
+  .Login   .sign-with-instance {
+    left: 273px !important;
+    position: absolute !important;
+    top: 568px !important;
+  }
+  
+  .Login   .sign-with-2 {
+    left: 531px !important;
+    position: absolute !important;
+    top: 568px !important;
+  }
+  
+  .Login   .text-wrapper-3 {
+    color: #15186a;
+    font-family: "Itim", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 156px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 427px;
+    white-space: nowrap;
+    cursor: pointer;
+  }
+  
+  .Login   .login {
+    height: 393px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 362px;
+    width: 444px;
+  }
+  
+  .Login   .nav-logo {
+    align-items: center;
+    display: flex;
+    gap: 10px;
+    height: 72px;
+    justify-content: center;
+    left: 0;
+    overflow: hidden;
+    padding: 22px 0px 22px 59px;
+    position: absolute;
+    top: 0;
+    width: 261px;
+  }
+  
+  .Login   .shiawase {
+    color: #faecd6;
+    font-family: "Yuji Boku", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: -8px;
+    margin-left: -6.5px;
+    margin-top: -10px;
+    position: relative;
+    width: 215px;
+    cursor: pointer;
+  }
+  
+  .Login   .line-3 {
+    height: 13px;
+    left: 30px;
+    position: absolute;
+    top: 38px;
+    width: 24px;
+  }
+  
+  .Login   .ellipse {
+    background-color: #faecd6;
+    border-radius: 1.5px/4.5px;
+    height: 9px;
+    left: 45px;
+    position: absolute;
+    top: 29px;
+    width: 3px;
+  }
+  
+  .Login   .ellipse-2 {
+    background-color: #faecd6;
+    border-radius: 1.5px/4.5px;
+    height: 9px;
+    left: 36px;
+    position: absolute;
+    top: 29px;
+    width: 3px;
+  }
+  

@@ -1,0 +1,102 @@
+.footer {
+    background-color: #cdcdcd;
+    height: 355px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .footer .text-wrapper-7 {
+    color: #444444;
+    font-family: "Itim", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 49px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 44px;
+    white-space: nowrap;
+  }
+  
+  .footer .address {
+    color: #444444;
+    font-family: "AstroThin-Regular", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 47px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 101px;
+  }
+  
+  .footer .span {
+    color: #444444;
+    font-family: "AstroThin-Regular", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+  
+  .footer .text-wrapper-8 {
+    font-size: 20px;
+  }
+  
+  .footer .phone-number {
+    color: #444444;
+    font-family: "AstroThin-Regular", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 47px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 207px;
+  }
+  
+  .footer .text-wrapper-9 {
+    color: #444444;
+    font-family: "Itim", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 1232px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    text-align: right;
+    top: 101px;
+    white-space: nowrap;
+  }
+  
+  .footer .component-5 {
+    left: 1202px !important;
+    position: absolute !important;
+    top: 142px !important;
+  }
+  
+  .footer .component-instance {
+    color: #444444 !important;
+    font-family: "Itim", Helvetica !important;
+    left: 40px !important;
+  }
+  
+  .footer .component-5-instance {
+    color: #444444 !important;
+    font-family: "Itim", Helvetica !important;
+  }
+  
+  .footer .text-wrapper-10 {
+    color: #444444;
+    font-family: "Itim", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 873px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    text-align: right;
+    top: 283px;
+    white-space: nowrap;
+  }
+  

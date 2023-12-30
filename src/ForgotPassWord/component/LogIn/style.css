@@ -1,0 +1,31 @@
+.log-in {
+    height: 17px;
+    width: 17px;
+  }
+  
+  .log-in .overlap-group {
+    height: 18px;
+    left: -1px;
+    position: relative;
+    top: -1px;
+    width: 18px;
+  }
+  
+  .log-in .line {
+    height: 18px;
+    left: 1px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 18px;
+  }
+  
+  .log-in .img {
+    height: 18px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 18px;
+  }
+  

@@ -1,0 +1,46 @@
+.buddy-table {
+    border-radius: 10px;
+    height: 42px;
+    position: relative;
+    width: 42px;
+  }
+  
+  .buddy-table .b {
+    font-family: "Itim", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 10px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    text-align: center;
+    top: 5px;
+    white-space: nowrap;
+  }
+  
+  .buddy-table.state-0-click {
+    background-color: #189815;
+  }
+  
+  .buddy-table.state-0-default {
+    background-color: #ff40b2;
+  }
+  
+  .buddy-table.state-0-hover {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #ff40b2;
+  }
+  
+  .buddy-table.state-0-click .b {
+    color: #ffffff;
+  }
+  
+  .buddy-table.state-0-default .b {
+    color: #ffffff;
+  }
+  
+  .buddy-table.state-0-hover .b {
+    color: #ff40b2;
+  }
+  

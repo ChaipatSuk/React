@@ -1,0 +1,839 @@
+.BookingTable {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .BookingTable .div-2 {
+    background-color: #ffffff;
+    height: 2400px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .BookingTable .overlap {
+    height: 496px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .BookingTable .header-nav-profile-instance {
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .BookingTable .design-component-instance-node {
+    margin-left: -1174.65px !important;
+    margin-right: unset !important;
+    margin-top: -15798px !important;
+  }
+  
+  .BookingTable .header-nav-profile-2 {
+    background-image: url(https://cdn.animaapp.com/projects/654afb985b4f8eee5d8e3290/releases/656ae2836922aedfb93f6fe5/img/state-default-2.svg) !important;
+    left: 1310px !important;
+    position: absolute !important;
+    top: 20px !important;
+  }
+  
+  .BookingTable .view {
+    background-image: url(https://cdn.animaapp.com/projects/654afb985b4f8eee5d8e3290/releases/654afd032b1a72c65fa053d2/img/----------------------.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 400px;
+    left: 0;
+    position: absolute;
+    top: 96px;
+    width: 1440px;
+  }
+  
+  
+  .BookingTable .component-3431 {
+    background-image: url(https://cdn.animaapp.com/projects/654afb985b4f8eee5d8e3290/releases/656ae2836922aedfb93f6fe5/img/rectangle-11-1@2x.png) !important;
+    height: 22px !important;
+    left: 62px !important;
+    position: relative !important;
+    top: 51px !important;
+    width: 19px !important;
+  }
+  
+  .BookingTable .view-2 {
+    border: 1px solid;
+    border-color: #000000;
+    border-radius: 15px;
+    height: 532px;
+    left: 132px;
+    overflow: hidden;
+    position: absolute;
+    top: 967px;
+    width: 1177px;
+  }
+  
+  .BookingTable .view-3 {
+    height: 394px;
+    left: 913px;
+    position: absolute;
+    top: 42px;
+    width: 215px;
+  }
+  
+  .BookingTable .text-wrapper-6 {
+    color: #000000;
+    font-family: "Itim", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .BookingTable .text-wrapper-7 {
+    color: #000000;
+    font-family: "Itim", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 61px;
+    white-space: nowrap;
+  }
+  
+  .BookingTable .overlap-group {
+    height: 51px;
+    left: 25px;
+    position: absolute;
+    top: 96px;
+    width: 153px;
+  }
+  
+  .BookingTable .text-wrapper-8 {
+    color: #ff7a00;
+    font-family: "Itim", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .BookingTable .text-wrapper-9 {
+    color: #808080;
+    font-family: "Itim", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 7px;
+    letter-spacing: 0;
+    line-height: 3px;
+    position: absolute;
+    top: 21px;
+    white-space: nowrap;
+  }
+  
+  .BookingTable .line {
+    height: 1px;
+    left: 1px;
+    object-fit: cover;
+    position: absolute;
+    top: 35px;
+    width: 150px;
+  }
+  
+  .BookingTable .text-wrapper-10 {
+    color: #000000;
+    font-family: "Itim", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 296px;
+    white-space: nowrap;
+  }
+  
+  .BookingTable .ellipse {
+    background-color: #ff7a00;
+    border-radius: 9px;
+    height: 18px;
+    left: 1px;
+    position: absolute;
+    top: 103px;
+    width: 18px;
+  }
+  
+  .BookingTable .text-wrapper-11 {
+    color: #ce0a0a;
+    font-family: "Itim", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 32px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 326px;
+    white-space: nowrap;
+  }
+  
+  .BookingTable .ellipse-2 {
+    background-color: #ce0a0a;
+    border-radius: 9px;
+    height: 18px;
+    left: 1px;
+    position: absolute;
+    top: 333px;
+    width: 18px;
+  }
+  
+  .BookingTable .text-wrapper-12 {
+    color: #189815;
+    font-family: "Itim", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 32px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 359px;
+    white-space: nowrap;
+  }
+  
+  .BookingTable .ellipse-3 {
+    background-color: #189815;
+    border-radius: 9px;
+    height: 18px;
+    left: 1px;
+    position: absolute;
+    top: 366px;
+    width: 18px;
+  }
+  
+  .BookingTable .overlap-2 {
+    height: 54px;
+    left: 28px;
+    position: absolute;
+    top: 152px;
+    width: 153px;
+  }
+  
+  .BookingTable .b-b {
+    color: #ff40b2;
+    font-family: "Itim", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .BookingTable .text-wrapper-13 {
+    color: #808080;
+    font-family: "Itim", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 4px;
+    letter-spacing: 0;
+    line-height: 3px;
+    position: absolute;
+    top: 24px;
+    white-space: nowrap;
+  }
+  
+  .BookingTable .ellipse-4 {
+    background-color: #ff40b2;
+    border-radius: 9px;
+    height: 18px;
+    left: 1px;
+    position: absolute;
+    top: 159px;
+    width: 18px;
+  }
+  
+  .BookingTable .overlap-group-2 {
+    height: 74px;
+    left: 28px;
+    position: absolute;
+    top: 208px;
+    width: 159px;
+  }
+  
+  .BookingTable .m-m {
+    color: #262ba7;
+    font-family: "Itim", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .BookingTable .text-wrapper-14 {
+    color: #ce0a0a;
+    font-family: "Itim", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 4px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 44px;
+    white-space: nowrap;
+  }
+  
+  .BookingTable .ellipse-5 {
+    background-color: #262ba7;
+    border-radius: 9px;
+    height: 18px;
+    left: 1px;
+    position: absolute;
+    top: 215px;
+    width: 18px;
+  }
+  
+  .BookingTable .component-3432-instance {
+    border-radius: 20px !important;
+    height: 40px !important;
+    left: 1012px !important;
+    position: absolute !important;
+    top: 457px !important;
+    width: 103px !important;
+  }
+  
+  .BookingTable .view-4 {
+    font-size: 20px !important;
+    left: 30px !important;
+    top: 3px !important;
+  }
+  
+  .BookingTable .view-5 {
+    background-color: #f7f7f7;
+    border: 1px solid;
+    border-color: #cdcdcd;
+    height: 437px;
+    left: 80px;
+    position: absolute;
+    top: 41px;
+    width: 754px;
+  }
+  
+  .BookingTable .buddy-table-instance {
+    height: 60px !important;
+    left: 616px !important;
+    position: absolute !important;
+    top: 180px !important;
+  }
+  
+  .BookingTable .buddy-table-2 {
+    left: 9px !important;
+    top: 14px !important;
+  }
+  
+  .BookingTable .buddy-table-3 {
+    height: 60px !important;
+    left: 676px !important;
+    position: absolute !important;
+    top: 292px !important;
+  }
+  
+  .BookingTable .buddy-table-4 {
+    height: 60px !important;
+    left: 676px !important;
+    position: absolute !important;
+    top: 180px !important;
+  }
+  
+  .BookingTable .buddy-table-5 {
+    height: 60px !important;
+    left: 676px !important;
+    position: absolute !important;
+    top: 68px !important;
+  }
+  
+  .BookingTable .buddy-table-6 {
+    height: 60px !important;
+    left: 616px !important;
+    position: absolute !important;
+    top: 292px !important;
+  }
+  
+  .BookingTable .buddy-table-7 {
+    height: 60px !important;
+    left: 616px !important;
+    position: absolute !important;
+    top: 68px !important;
+  }
+  
+  .BookingTable .buddy-table-8 {
+    top: 14px !important;
+  }
+  
+  .BookingTable .private-table-instance {
+    left: 324px !important;
+    position: absolute !important;
+    top: 66px !important;
+  }
+  
+  .BookingTable .private-table-2 {
+    left: 10px !important;
+  }
+  
+  .BookingTable .private-table-3 {
+    left: 453px !important;
+    position: absolute !important;
+    top: 66px !important;
+  }
+  
+  .BookingTable .private-table-4 {
+    left: 4px !important;
+  }
+  
+  .BookingTable .private-table-5 {
+    left: 453px !important;
+    position: absolute !important;
+    top: 137px !important;
+  }
+  
+  .BookingTable .private-table-6 {
+    left: 6px !important;
+  }
+  
+  .BookingTable .private-table-7 {
+    left: 453px !important;
+    position: absolute !important;
+    top: 208px !important;
+  }
+  
+  .BookingTable .private-table-8 {
+    left: 5px !important;
+  }
+  
+  .BookingTable .private-table-9 {
+    left: 453px !important;
+    position: absolute !important;
+    top: 279px !important;
+  }
+  
+  .BookingTable .private-table-10 {
+    left: 324px !important;
+    position: absolute !important;
+    top: 140px !important;
+  }
+  
+  .BookingTable .private-table-11 {
+    left: 324px !important;
+    position: absolute !important;
+    top: 205px !important;
+  }
+  
+  .BookingTable .private-table-12 {
+    left: 324px !important;
+    position: absolute !important;
+    top: 270px !important;
+  }
+  
+  .BookingTable .private-table-13 {
+    left: 324px !important;
+    position: absolute !important;
+    top: 335px !important;
+  }
+  
+  .BookingTable .private-table-14 {
+    left: 244px !important;
+    position: absolute !important;
+    top: 140px !important;
+  }
+  
+  .BookingTable .private-table-15 {
+    left: 244px !important;
+    position: absolute !important;
+    top: 205px !important;
+  }
+  
+  .BookingTable .private-table-16 {
+    left: 244px !important;
+    position: absolute !important;
+    top: 270px !important;
+  }
+  
+  .BookingTable .private-table-17 {
+    left: 244px !important;
+    position: absolute !important;
+    top: 335px !important;
+  }
+  
+  .BookingTable .private-table-18 {
+    left: 9px !important;
+  }
+  
+  .BookingTable .meeting-table-instance {
+    height: 80px !important;
+    left: 56px !important;
+    position: absolute !important;
+    top: 41px !important;
+  }
+  
+  .BookingTable .meeting-table-2 {
+    top: 24px !important;
+  }
+  
+  .BookingTable .meeting-table-3 {
+    height: 80px !important;
+    left: 56px !important;
+    position: absolute !important;
+    top: 178px !important;
+  }
+  
+  .BookingTable .meeting-table-4 {
+    left: 8px !important;
+    top: 24px !important;
+  }
+  
+  .BookingTable .meeting-table-5 {
+    height: 80px !important;
+    left: 56px !important;
+    position: absolute !important;
+    top: 306px !important;
+  }
+  
+  .BookingTable .overlap-3 {
+    height: 52px;
+    left: 753px;
+    position: absolute;
+    top: 128px;
+    width: 30px;
+  }
+  
+  .BookingTable .line-2 {
+    height: 52px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 3px;
+  }
+  
+  .BookingTable .text-wrapper-15 {
+    color: #5b5b5a;
+    font-family: "Itim", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: -3px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    text-align: center;
+    top: 15px;
+    transform: rotate(90deg);
+    white-space: nowrap;
+    width: 46px;
+  }
+  
+  .BookingTable .overlap-4 {
+    height: 52px;
+    left: 753px;
+    position: absolute;
+    top: 241px;
+    width: 30px;
+  }
+  
+  .BookingTable .overlap-5 {
+    height: 52px;
+    left: -30px;
+    position: absolute;
+    top: 241px;
+    width: 30px;
+  }
+  
+  .BookingTable .line-3 {
+    height: 52px;
+    left: 27px;
+    position: absolute;
+    top: 0;
+    width: 3px;
+  }
+  
+  .BookingTable .text-wrapper-16 {
+    color: #5b5b5a;
+    font-family: "Itim", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: -8px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    text-align: center;
+    top: 11px;
+    transform: rotate(-90deg);
+    white-space: nowrap;
+  }
+  
+  .BookingTable .overlap-6 {
+    height: 53px;
+    left: -30px;
+    position: absolute;
+    top: 88px;
+    width: 30px;
+  }
+  
+  .BookingTable .text-wrapper-17 {
+    color: #5b5b5a;
+    font-family: "Itim", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: -16px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    text-align: center;
+    top: 16px;
+    transform: rotate(-90deg);
+    white-space: nowrap;
+    width: 52px;
+  }
+  
+  .BookingTable .overlap-7 {
+    height: 32px;
+    left: 197px;
+    position: absolute;
+    top: -32px;
+    width: 88px;
+  }
+  
+  .BookingTable .line-4 {
+    height: 3px;
+    left: 0;
+    position: absolute;
+    top: 29px;
+    width: 88px;
+  }
+  
+  .BookingTable .text-wrapper-18 {
+    color: #5b5b5a;
+    font-family: "Itim", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 28px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .BookingTable .overlap-8 {
+    height: 32px;
+    left: 489px;
+    position: absolute;
+    top: -32px;
+    width: 88px;
+  }
+  
+  .BookingTable .overlap-9 {
+    height: 30px;
+    left: 193px;
+    position: absolute;
+    top: 435px;
+    width: 88px;
+  }
+  
+  .BookingTable .line-5 {
+    height: 3px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 88px;
+  }
+  
+  .BookingTable .text-wrapper-19 {
+    color: #5b5b5a;
+    font-family: "Itim", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 22px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .BookingTable .overlap-10 {
+    height: 30px;
+    left: 490px;
+    position: absolute;
+    top: 435px;
+    width: 88px;
+  }
+  
+  .BookingTable .text-wrapper-20 {
+    color: #5b5b5a;
+    font-family: "Itim", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 25px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .BookingTable .text-wrapper-21 {
+    color: #000000;
+    font-family: "Itim", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 134px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 582px;
+    white-space: nowrap;
+  }
+  
+  .BookingTable .text-wrapper-22 {
+    color: #444444;
+    font-family: "Itim", Helvetica;
+    font-size: 26px;
+    font-weight: 400;
+    left: 134px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 705px;
+    white-space: nowrap;
+  }
+  
+  .BookingTable .text-wrapper-23 {
+    color: #444444;
+    font-family: "Itim", Helvetica;
+    font-size: 26px;
+    font-weight: 400;
+    left: 134px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 893px;
+    white-space: nowrap;
+  }
+  
+  .BookingTable .text-wrapper-24 {
+    color: #ce0a0a;
+    font-family: "Itim", Helvetica;
+    font-size: 26px;
+    font-weight: 400;
+    left: 134px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 628px;
+    white-space: nowrap;
+  }
+  
+  .BookingTable .div-3 {
+    background-color: #893a3a;
+    border-radius: 15px;
+    height: 80px;
+    left: 134px;
+    overflow: hidden;
+    position: absolute;
+    top: 750px;
+    width: 525px;
+  }
+  
+  .BookingTable .calendar-icon-instance {
+    left: 428px !important;
+    position: absolute !important;
+    top: 15px !important;
+  }
+  
+  .BookingTable .text-wrapper-25 {
+    color: #ffffff;
+    font-family: "Itim", Helvetica;
+    font-size: 26px;
+    font-weight: 400;
+    left: 43px;
+    letter-spacing: 0;
+    line-height: 50px;
+    position: absolute;
+    top: 24px;
+    white-space: nowrap;
+  }
+  
+  .BookingTable .div-4 {
+    color: transparent;
+    font-family: "Itim", Helvetica;
+    font-size: 26px;
+    font-weight: 400;
+    left: 190px;
+    letter-spacing: 0;
+    line-height: 1px;
+    position: absolute;
+    top: 24px;
+    white-space: nowrap;
+  }
+  
+  .BookingTable .span {
+    color: #cdcdcd;
+  }
+  
+  .BookingTable .text-wrapper-26 {
+    color: #ffffff;
+  }
+  
+  .BookingTable .div-5 {
+    background-color: #893a3a;
+    border-radius: 15px;
+    height: 80px;
+    left: 784px;
+    position: absolute;
+    top: 750px;
+    width: 525px;
+  }
+  
+  .BookingTable .option-default-visible-options-no {
+    left: 199px !important;
+    position: absolute !important;
+    top: 15px !important;
+  }
+  
+  .BookingTable .footer {
+    height: 355px;
+    left: 0;
+    position: absolute;
+    top: 2045px;
+    width: 1440px;
+  }
+  
+  .BookingTable .text-wrapper-27 {
+    color: #ce0a0a;
+    font-family: "Itim", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 134px;
+    letter-spacing: 0;
+    line-height: 3px;
+    position: absolute;
+    top: 923px;
+    white-space: nowrap;
+  }
+  

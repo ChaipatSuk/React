@@ -1,0 +1,14 @@
+.StaffOrderMenuPage{
+    overflow: hidden;
+}
+.ButtonEditandShowEdit{
+    display: flex;
+    margin-top: -4.8%;
+    margin-left: 43%;
+}
+.StaffOrderSummary{
+    display: flex;
+    justify-content: right;
+    margin-right: 5%;
+    margin-top: -4%;
+}

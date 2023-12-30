@@ -1,0 +1,41 @@
+.login-or {
+    height: 22px;
+    width: 137px;
+  }
+  
+  .login-or .overlap-group {
+    height: 22px;
+    position: relative;
+  }
+  
+  .login-or .line {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 10px;
+    width: 137px;
+  }
+  
+  .login-or .frame {
+    background-color: #ffffff;
+    height: 22px;
+    left: 45px;
+    position: absolute;
+    top: 0;
+    width: 38px;
+  }
+  
+  .login-or .text-wrapper {
+    color: #5b5b5a;
+    font-family: "Itim", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 9px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    text-align: center;
+    top: -5px;
+    white-space: nowrap;
+  }

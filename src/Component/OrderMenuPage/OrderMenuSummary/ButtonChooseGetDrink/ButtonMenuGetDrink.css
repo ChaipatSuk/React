@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.MenuPickUpAtCafe{
+    display: flex; 
+    align-items: center;
+}
+.MenuCircleButtonPickUpAtCafe {
+    width: 1.53vw;
+    height: 3.06vh;
+    border: 2px solid #5C5B5A9E;
+    border-radius: 90px;
+    margin-right: 10px;
+}
+
+.MenuCircleButtonPickUpAtCafe:hover,
+.MenuCircleButtonTableService:hover {
+    border: 1px solid #0C760A;
+}
+
+.MenuTextPickUpAtCafe{
+    list-style-type: none;
+    margin: 7px;
+    padding: 0;
+}
+.MenuTextPickUpAtCafe li{
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.MenuTableService{
+    display: flex; 
+    align-items: center;
+}
+.MenuCircleButtonTableService{
+    width: 1.53vw;
+    height: 3.06vh;
+    border: 2px solid #5C5B5A9E;
+    border-radius: 90px;
+    margin-right: 10px;
+}
+.MenuTextTableService{
+    list-style-type: none;
+    margin: 7px;
+    padding: 0;
+}
+.MenuTextTableService{
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

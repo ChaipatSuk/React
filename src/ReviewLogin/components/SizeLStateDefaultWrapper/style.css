@@ -1,0 +1,129 @@
+.size-l-state-default-wrapper {
+    background-color: #9a3b3b;
+  }
+  
+  .size-l-state-default-wrapper .nav-center {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 20px;
+    left: 480px;
+    position: absolute;
+    top: 21px;
+  }
+  
+  .size-l-state-default-wrapper .png {
+    object-fit: cover;
+    position: absolute;
+    top: 12px;
+  }
+  
+  .size-l-state-default-wrapper .button-login-instance {
+    left: 1297px !important;
+    position: absolute !important;
+    top: 24px !important;
+  }
+  
+  .size-l-state-default-wrapper .nav-logo {
+    align-items: center;
+    display: flex;
+    gap: 10px;
+    height: 73px;
+    justify-content: center;
+    padding: 22px 24px 22px 49px;
+    position: relative;
+    top: 12px;
+    width: 301px;
+  }
+  
+  .size-l-state-default-wrapper .line-2 {
+    height: 15px;
+    left: 20px;
+    position: absolute;
+    top: 43px;
+    width: 28px;
+  }
+  
+  .size-l-state-default-wrapper .ellipse {
+    background-color: #faecd6;
+    border-radius: 2px/5.5px;
+    height: 11px;
+    left: 37px;
+    position: absolute;
+    top: 32px;
+    width: 4px;
+  }
+  
+  .size-l-state-default-wrapper .ellipse-2 {
+    background-color: #faecd6;
+    border-radius: 2px/5.5px;
+    height: 11px;
+    left: 27px;
+    position: absolute;
+    top: 32px;
+    width: 4px;
+  }
+  
+  .size-l-state-default-wrapper .shiawase {
+    color: #faecd6;
+    font-family: "Yuji Boku", Helvetica;
+    font-size: 48px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: -19.5px;
+    margin-top: -21.5px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .size-l-state-default-wrapper .header-nav-menu {
+    height: 30px !important;
+    left: 320px !important;
+    position: absolute !important;
+    top: 18px !important;
+    width: 30px !important;
+  }
+  
+  .size-l-state-default-wrapper .header-nav-login {
+    height: 25px !important;
+    left: 282px !important;
+    position: absolute !important;
+    top: 20px !important;
+    width: 25px !important;
+  }
+  
+  .size-l-state-default-wrapper.l {
+    height: 97px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .size-l-state-default-wrapper.s {
+    height: 60px;
+    position: relative;
+    width: 375px;
+  }
+  
+  .size-l-state-default-wrapper.m {
+    height: 97px;
+    width: 768px;
+  }
+  
+  .size-l-state-default-wrapper.l .png {
+    height: 73px;
+    left: 21px;
+    width: 301px;
+  }
+  
+  .size-l-state-default-wrapper.s .png {
+    height: 36px;
+    left: 13px;
+    width: 147px;
+  }
+  
+  .size-l-state-default-wrapper.m .png {
+    height: 73px;
+    left: 21px;
+    width: 301px;
+  }
+  

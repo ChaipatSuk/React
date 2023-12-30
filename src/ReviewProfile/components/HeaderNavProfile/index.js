@@ -1,0 +1,1 @@
+export { HeaderNavProfile } from "./HeaderNavProfile";

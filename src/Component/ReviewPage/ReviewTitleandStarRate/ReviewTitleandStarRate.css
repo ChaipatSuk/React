@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.ReviewNameandStar{
+    display: flex;
+}
+.ReviewNameandStar h3{
+    font-family: 'Itim', cursive;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 5%;
+    margin-left: 7%;
+}
+.StarRate{
+    margin-top: 5%;
+    margin-left: 73%;
+}
+.StarRate img{
+    width: 2.5vw;
+    height: 5vh;
+}
+.StraightLineTeaMenu {
+    width: 90vw;
+    margin-top: -1%;
+    margin-left: 5.5%;
+    border-top: 1px solid rgba(0, 0, 0, 0.20);
+}

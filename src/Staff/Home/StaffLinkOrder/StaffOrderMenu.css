@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.StaffOrderMenu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 7.5%;
+}
+.OrderMenu,.MixMenu,.Booking{
+    margin: 0 15px; 
+}
+.OrderMenu img{
+    display: flex;
+    width: 20vw;
+    height: 24vh;
+    border-radius: 30px;
+}
+.Order{
+    position: absolute;
+    width: 7vw;
+    height: 5vh;
+    margin-left: -9%;
+    margin-top: 1.5%;
+    border-radius: 30px;
+    background: white;
+    border: white;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.30);
+    cursor: pointer;
+}
+.ButtonOrderMenu a{
+    font-family: 'Itim', cursive;
+    font-weight: 500;
+    font-size: 20px;
+    color:black;
+    text-decoration: none;
+}
+.ButtonOrder .Order:hover {
+    background: #15196A;
+    border: 2px solid #15196A;
+}
+.ButtonOrder .Order:hover a {
+    color: white;
+}
+.MixMenu img{
+    width: 20vw;
+    height: 24vh;
+    border-radius: 30px;
+}  
+.Mix{
+    position: absolute;
+    width: 7vw;
+    height: 5vh;
+    margin-left: -19.5%;
+    margin-top: 1.5%;
+    border-radius: 30px;
+    background: white;
+    border: white;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.30);
+    cursor: pointer;
+}
+.ButtonMixMenu a{
+    font-family: 'Itim', cursive;
+    font-weight: 500;
+    font-size: 20px;
+    color:black;
+    text-decoration: none;
+}
+.ButtonMixOrder .Mix:hover {
+    background: #15196A;
+    border: 2px solid #15196A;
+}
+.ButtonMixOrder .Mix:hover a {
+    color: white;
+}
+.Booking img{
+    width: 40vw;
+    height: 24vh;
+    border-radius: 30px;
+}
+.Book{
+    position: absolute;
+    width: 7vw;
+    height: 5vh;
+    margin-left: -24.5%;
+    margin-top: 0.5%;
+    border-radius: 30px;
+    background: white;
+    border: white;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.30);
+    cursor: pointer;
+}
+.ButtonBooking{
+    font-family: 'Itim', cursive;
+    font-weight: 500;
+    font-size: 20px;
+    color:black;
+}
+.Book:hover {
+    border: 2px solid #720000;
+    background: #820000;
+    color: white;
+}  
+
+
+  

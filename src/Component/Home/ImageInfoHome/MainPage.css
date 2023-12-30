@@ -1,0 +1,49 @@
+.Recommend_menu{
+    display: flex;
+    position: relative;
+    overflow: hidden;
+}
+.Background{
+    position: absolute;
+    width: 50vw;
+    height: 80vh;
+    margin-left: -4%;
+    z-index: -1;
+}
+.Background1{
+    position: absolute;
+    width: 50vw;
+    height: 80vh;
+    margin-left: 12%;
+    z-index: -1;
+}
+.Menu_slide{
+    width: 100vw;
+    height: 80vh;
+    
+    display: none;
+    object-fit: cover;
+}
+.Menu_slide--selected{
+    display: block;
+}
+.Circle_slide{
+    width: 100vw;
+    padding: 20px 0;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+}
+.Circle_button{
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    background: rgba(255,255,255,0.2);
+    border-radius: 50%;
+    margin: 0 15px;
+    cursor: pointer;
+}
+.Circle_button--selected{
+    background: white;
+}

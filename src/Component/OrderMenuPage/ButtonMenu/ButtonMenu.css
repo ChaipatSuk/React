@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.ButtonMenu{
+    position: sticky;
+    display: flex;
+    justify-content: left;
+    margin-left: 7%;
+    margin-top: 8%;
+}
+.milk-button,.tea-button,.coffee-button,.soda-button,.bakery-button{
+    width: 5vw;
+    height: 5.5vh;
+    background: #CFEDE1;
+    border: #CFEDE1;
+    border-radius: 10px;
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+    font-weight: 400;
+    color: black;
+    line-height: 30px;
+    margin: 0 15px;
+    cursor: pointer;
+}
+.milk-button:hover,
+.tea-button:hover,
+.coffee-button:hover,
+.soda-button:hover,
+.bakery-button:hover {
+    background: linear-gradient(180deg, #80B7A0 -10.53%, #2B2E64 143.42%);
+    color: white;
+}
+.StaffListShowMenu{
+    margin-top: -50%;
+}

@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.CoffeeName {
+    display: flex;
+    justify-content: left;
+    margin-left: 5%;
+}
+
+.TextNameCoffee {
+    display: flex;
+    justify-content: left;
+    list-style-type: none;
+    font-family: 'Itim', cursive;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 400;   
+    line-height: 30px;
+    margin-left: 5%;
+}
+
+.TextCoffeeType {
+    display: flex;
+    justify-content: left;
+    list-style-type: none;
+    font-family: 'Itim', cursive;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    color: #626262;
+    margin-left: 5%;
+}
+
+.TextCoffeeType .CoffeePrice {
+    color: black;
+}
+
+.TextCoffeeType li {
+    display: inline-block; 
+    margin-right: 10px; 
+}
+
+.StraightLineCoffeeMenu {
+    width: 45vw;
+    margin-left: 8.5%;
+    border-top: 1px solid rgba(0, 0, 0, 0.20);
+}

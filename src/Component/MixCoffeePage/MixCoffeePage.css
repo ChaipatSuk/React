@@ -1,0 +1,9 @@
+.MixCoffeePage{
+    overflow: hidden;
+}
+.CoffeeSummary{
+    display: flex;
+    justify-content: right;
+    margin-right: 5%;
+    margin-top: -55%;
+}

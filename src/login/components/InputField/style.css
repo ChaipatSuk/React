@@ -1,0 +1,98 @@
+.input-field {
+    border: 1px solid;
+    border-radius: 8px;
+    height: 50px;
+    width: 331px;
+  }
+  
+  .input-field .first-name-wrapper {
+    align-items: center;
+    background-color: #ffffff;
+    display: flex;
+    height: 25px;
+    justify-content: center;
+    left: 15px;
+    overflow: hidden;
+    position: relative;
+    top: -13px;
+    width: 93px;
+  }
+  
+  .input-field .first-name {
+    font-family: "Itim", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 30px;
+    margin-bottom: -1.5px;
+    margin-top: -3.5px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .input-field .div-wrapper {
+    align-items: center;
+    background-color: #ffffff;
+    display: flex;
+    height: 25px;
+    justify-content: center;
+    left: 15px;
+    overflow: hidden;
+    position: absolute;
+    top: -13px;
+    width: 93px;
+  }
+  
+  .input-field .first-name-2 {
+    color: #000000;
+    font-family: "Itim", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 30px;
+    margin-bottom: -1.5px;
+    margin-top: -3.5px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .input-field .cursor-instance {
+    height: unset !important;
+    left: 20px !important;
+    position: absolute !important;
+    top: 15px !important;
+    width: unset !important;
+  }
+  
+  .input-field .instance-node {
+    left: 579px !important;
+    top: 6694px !important;
+  }
+  
+  .input-field.hover {
+    border-color: #000000;
+  }
+  
+  .input-field.default {
+    border-color: #525252;
+  }
+  
+  .input-field.click {
+    border-color: #000000;
+    position: relative;
+  }
+  
+  .input-field.hover .first-name {
+    color: #000000;
+  }
+  
+  .input-field.default .first-name {
+    color: #5b5b5a;
+  }
+  
+  .input-field.click .first-name {
+    color: #5b5b5a;
+  }
+  

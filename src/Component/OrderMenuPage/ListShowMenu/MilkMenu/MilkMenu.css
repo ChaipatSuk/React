@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.MilkMenu h2{
+    margin-top: 3%;
+    margin-left: 9%;
+    font-family: 'Itim', cursive;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.MenuItemContainer{
+    width: 50vw;
+    height: 24.5vh;
+    background: white;
+    margin-left: 4%;
+    border-radius: 20px;
+    box-shadow: 4px 4px 10px 0px rgba(0, 0, 0, 0.25);
+}
+.FrameImageMenu{
+    width: 18vw;
+    height: 24.5vh;
+    border-radius: 20px 0px 0px 20px;
+    box-shadow: 4px 4px 10px 0px rgba(0, 0, 0, 0.25);
+    background: linear-gradient(180deg, #80B7A0 -10.53%, #2B2E64 143.42%);
+}
+.HotandCoolPrice{
+    display: flex;
+    justify-content: right;
+    margin-right: 4%;
+}
+.HotPrice,.CoolPrice{
+    width: 7vw;
+    height: 6vh;
+    margin-top: -23%;
+    border: 2px solid #80B7A0;
+    background: white;
+    padding: 4px 4px 4px 0px;
+    gap: 4px;
+    flex-shrink: 0;
+}
+.t-hotprice,.t-coolprice{
+    font-family: 'Itim', cursive;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+}
+.HotPrice{
+    border-radius: 20px 0px 0px 20px;
+}
+.CoolPrice{
+    border-radius: 0px 20px 20px 0px;
+}
+.t-hotprice{
+    color: #CE0A0A;
+}
+.t-coolprice{
+    color: #0008C3;
+}
+.ButtonOrderNow{
+    margin-top: -7%;
+}
+.OrderNow{
+    width: 9vw;
+    height: 6vh;
+    margin-left: 79%;
+    margin-top: 5%;
+    padding: 4px 6px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    border: 2.5px solid #587784;
+    cursor: pointer;
+}
+.ButtonOrderNow button:hover{
+    background: linear-gradient(180deg, #80B7A0 -10.53%, #2B2E64 143.42%);
+    color: white;
+}
+.t-ordernow{
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    background: white;
+    color: #587784;
+}

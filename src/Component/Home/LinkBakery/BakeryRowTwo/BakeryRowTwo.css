@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.PhotoBakeryTwoRecommend{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 2%;
+    margin-left: 3%;
+}
+.FrameBakeryTwoImageSection img{
+    width: 20vw;
+    height: 40vh;
+    border-radius: 20px;
+}
+.FrameBakeryTwoImageSection h4{
+    margin-top: 0%;
+    text-align: center;
+    font-family: 'Itim', cursive;
+    color: white;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.BakeryTwoImageSection{
+    margin-top: -85%;
+    margin-left: -1%;
+}
+.BakeryTwoImageSection img{
+    width: 18vw;
+    height: 28vh; 
+}
